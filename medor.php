@@ -1,3 +1,4 @@
+<DOCTYPE html>
 <?php
 $Nom_animal = ($_POST['valeur']);
     if ($Nom_animal == 'souris')
@@ -21,4 +22,5 @@ $Nom_animal = ($_POST['valeur']);
                         echo 'Non, non, non Médor n\'est pas un(e) '. $Nom_animal . ', mais un chien';
                     }
 ?>
+
 <p><a href="index.html">retour</a></p>
