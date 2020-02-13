@@ -21,4 +21,4 @@ $Nom_animal = ($_POST['valeur']);
                         echo 'Non, non, non Médor n\'est pas un(e) '. $Nom_animal . ', mais un chien';
                     }
 ?>
-<p><a href="medor.htm">retour</a></p>
+<p><a href="index.html">retour</a></p>
